@@ -3,6 +3,13 @@
 ## Setup
 
 - Install dependencies with your favorite package manager (`npm install`, `yarn`, `pnpm install`, ...)
+- To begin development, in separate terminals, run `npm relay` and `npm run dev`, or use the vscode extension
+
+# Getting Started
+
+https://vilay.xiniha.dev/en/try-it-out/
+
+https://vite-plugin-ssr.com/
 
 ## Scripts
 
